@@ -93,16 +93,16 @@ This explanation is short, practical, and field-friendly, which is what test eng
 
 If you want, I can also show you a very clean final document structure (like a 2-page SOP) so your submission looks professional and organized.
 
-ping -c 4 google.com
-sudo apt update
-curl --version
-sudo apt install curl
-sudo apt --fix-broken install
-sudo dpkg --configure -a
-curl -fsSL https://tailscale.com/install.sh | sh
-tailscale version
-sudo tailscale up
-tailscale ip
-tailscale status
-mokutil --sb-state
+ping -c 4 google.com <br>
+sudo apt update<br>
+curl --version<br>
+sudo apt install curl<br>
+sudo apt --fix-broken install<br>
+sudo dpkg --configure -a<br>
+curl -fsSL https://tailscale.com/install.sh | sh<br>
+tailscale version<br>
+sudo tailscale up<br>
+tailscale ip<br>
+tailscale status<br>
+mokutil --sb-state<br>
 
